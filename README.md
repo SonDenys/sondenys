@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I am Denis Son, a web developer 
+
+I build websites, mobile applications with React/React Native
+
 
 <!--
 **SonDenys/sondenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
