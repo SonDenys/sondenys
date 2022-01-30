@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Denis Son, a web developer 
 
-I build websites, mobile applications with React/React Native
-🔭 I’m currently working on a web application like a mixte between Slack and WeTransfer for AeonX Company with Typescript
+I build websites, mobile applications
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/sondenis)
 
@@ -11,6 +10,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 ## 📌 Pinned Repositories
 
 <br>
+
+<!--
+<a href="https://github.com/SonDenys/Gamepad-Frontend">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B" />
+</a>-->
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Frontend)
@@ -24,7 +28,19 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sondenys&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/sondenys/github-readme-stats)
+
+<a href="https://github.com/sondenys">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondenys&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B" />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sondenys&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B" alt="Martin's GitHub Stats" />
+</a>
+
+
+<br>
+
+Credit: [SonDenys](https://github.com/SonDenys)
 
 
 <!--
