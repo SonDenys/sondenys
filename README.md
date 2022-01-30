@@ -13,11 +13,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 <br>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=50808E)](https://github.com/SonDenys/Gamepad-Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=50808E)](https://github.com/SonDenys/Gamepad-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Backend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=hulu-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=50808E)](https://github.com/SonDenys/hulu-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=hulu-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/SonDenys/hulu-clone)
 
 
 <br>
