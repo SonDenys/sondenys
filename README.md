@@ -9,7 +9,7 @@ I build websites, mobile applications
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/sondenis)
 
-- 🔭 I’m currently working as an internship on a web application which is a mixted between Slack and WeTransfer on ReactJS
+- 🔭 I’m currently working as an internship on a web application which is a mixted between Slack and WeTransfer on ReactJS and TailwindCSS
 - 🌱 I’m still currently learning ReactJS and will add to my path Flutter and Solidity
 - 👯 I’m looking to collaborate on web and mobile application after the internship
 - 💬 Ask me about anything, I'm happy to help!
