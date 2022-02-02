@@ -33,6 +33,8 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-backend&title_color=ffffff&text_color=c9cacc&icon_color=c9cacc&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Backend)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=vinted-frontend&title_color=ffffff&text_color=c9cacc&icon_color=c9cacc&bg_color=003D5B)](https://github.com/SonDenys/Vinted-Frontend)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=hulu-clone&title_color=ffffff&text_color=c9cacc&icon_color=c9cacc&bg_color=003D5B)](https://github.com/SonDenys/hulu-clone)
 
 
