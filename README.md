@@ -1,8 +1,19 @@
-### Hi there 👋 I am Denis Son, a web developer 
+![1](https://user-images.githubusercontent.com/85889219/152243603-0a110d4e-e7d9-4745-96c0-57349b459fc3.png)
+
+
+
+
 
 I build websites, mobile applications
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/sondenis)
+
+- 🔭 I’m currently working as an internship on a web application which is a mixted between Slack and WeTransfer on ReactJS
+- 🌱 I’m still currently learning ReactJS and will add to my path Flutter and Solidity
+- 👯 I’m looking to collaborate on web and mobile application after the internship
+- 💬 Ask me about anything, I'm happy to help!
+- 📫 How to reach me: sondenis@live.fr
+- ⚡ Fun fact: I was a project manager before meeting programming.. sounds like I have gone to the tech side of the force
 
 <!--
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)-->
@@ -17,11 +28,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 </a>-->
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=c9cacc&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=gamepad-frontend&title_color=ffffff&text_color=c9cacc&icon_color=c9cacc&bg_color=003D5B)](https://github.com/SonDenys/Gamepad-Backend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=hulu-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=003D5B)](https://github.com/SonDenys/hulu-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sondenys&repo=hulu-clone&title_color=ffffff&text_color=c9cacc&icon_color=c9cacc&bg_color=003D5B)](https://github.com/SonDenys/hulu-clone)
 
 
 <br>
