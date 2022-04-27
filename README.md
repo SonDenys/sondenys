@@ -71,6 +71,8 @@ Want to know more about me? [Check out my portfolio.](https://)-->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=EDAE49)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=EDAE49)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=EDAE49)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=EDAE49)
+![](https://img.shields.io/badge/Code-Apollo-informational?style=flat&logo=Apollo&logoColor=white&color=EDAE49)
 
 <details>
 <summary>More Skills</summary>
