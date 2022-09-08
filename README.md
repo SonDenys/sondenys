@@ -9,7 +9,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/sondenis)
 
-- 🔭 I’m currently working as a fullstack developerfor an SaaS application for the transport and logistic of transport orders
+- 🔭 I’m currently working as a fullstack developer for a SaaS application for the transport and logistic of transport orders
 - 🌱 I’m still currently learning ReactJS/NodeJs and will add to my path Python, Flutter and Solidity
 - 👯 I’m looking to collaborate on web and mobile application after the internship
 - 💬 Ask me about anything, I'm happy to help!
