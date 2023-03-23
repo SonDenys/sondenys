@@ -10,7 +10,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/sondenis)
 
 - 🌱 I’m still currently learning ReactJS/NodeJs and will add to my path the technologies AWS Cloud
-- 👯 I’m looking to collaborate on web and mobile application after the internship
+- 👯 I’m looking to collaborate on web and mobile application
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: sondenis@live.fr
 - ⚡ Fun fact: I was a project manager before meeting programming.. sounds like I have gone to the tech side of the force
